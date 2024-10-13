@@ -1,0 +1,79 @@
+{
+  "title": "Mastering Web Development with React",
+  "description": "An in-depth course that covers the fundamentals and advanced concepts of web development using React. Learn how to build dynamic, responsive web applications from scratch.",
+  "price": 99.99,
+  "sections": [
+    {
+      "title": "Introduction to Web Development",
+      "description": "In this section, we will cover the basics of web development and set up the environment for working with React.",
+      "lessons": [
+        {
+          "title": "What is Web Development?",
+          "video_url": "https://example.com/videos/web-development-intro.mp4"
+        },
+        {
+          "title": "Setting Up Your Development Environment",
+          "video_url": "https://example.com/videos/setup-environment.mp4"
+        }
+      ]
+    },
+    {
+      "title": "Getting Started with React",
+      "description": "This section introduces React and covers the core concepts such as components, JSX, and state management.",
+      "lessons": [
+        {
+          "title": "Introduction to React",
+          "video_url": "https://example.com/videos/react-intro.mp4"
+        },
+        {
+          "title": "Understanding JSX",
+          "video_url": "https://example.com/videos/react-jsx.mp4"
+        },
+        {
+          "title": "Components and Props",
+          "video_url": "https://example.com/videos/react-components-props.mp4"
+        },
+        {
+          "title": "State and Lifecycle",
+          "video_url": "https://example.com/videos/react-state-lifecycle.mp4"
+        }
+      ]
+    },
+    {
+      "title": "Advanced React Concepts",
+      "description": "Dive deeper into React by learning about hooks, context API, and optimizing performance in React applications.",
+      "lessons": [
+        {
+          "title": "React Hooks Overview",
+          "video_url": "https://example.com/videos/react-hooks-overview.mp4"
+        },
+        {
+          "title": "Using useState and useEffect",
+          "video_url": "https://example.com/videos/react-useState-useEffect.mp4"
+        },
+        {
+          "title": "Context API and useContext",
+          "video_url": "https://example.com/videos/react-context-api.mp4"
+        },
+        {
+          "title": "Performance Optimization in React",
+          "video_url": "https://example.com/videos/react-performance-optimization.mp4"
+        }
+      ]
+    },
+    {
+      "title": "Building and Deploying a React Application",
+      "description": "In the final section, you will learn how to structure a real-world React application and deploy it to the web.",
+      "lessons": [
+        {
+          "title": "Structuring a React Project",
+          "video_url": "https://example.com/videos/react-project-structure.mp4"
+        },
+        {
+          "title": "Deploying Your React App",
+          "video_url": "https://example.com/videos/react-app-deployment.mp4"
+        }
+      ]
+    }
+  ]
+}
